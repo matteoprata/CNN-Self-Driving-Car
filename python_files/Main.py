@@ -30,7 +30,7 @@ def run(neural_arch, is_trained=False, model_path=None):
 
     # Start a CNN to train if asked,
     # in any other case handle the Client <> Server communication with the Unity 3D Wold
-    if neural_arch == NeuralArchitecture.RLNN.CNN and not is_trained:
+    if neural_arch == NeuralArchitecture.CNN and not is_trained:
         cnn = CNN()
         train_dataset, test_dataset = load_data(DATA_PATH)
         cnn.train_model(train_dataset, test_dataset)
