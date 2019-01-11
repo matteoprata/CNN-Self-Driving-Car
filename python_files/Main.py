@@ -42,4 +42,4 @@ def run(neural_arch, is_trained=False, model_path=None):
 # run(NeuralArchitecture.CNN, is_trained=False)
 
 # Execute prediction with the CNN to the Unity 3D World using the specified model
-run(NeuralArchitecture.CNN, is_trained=True, model_path="model-ottimo.h5")
+run(NeuralArchitecture.CNN, is_trained=True, model_path="model-ottimo12.h5")
