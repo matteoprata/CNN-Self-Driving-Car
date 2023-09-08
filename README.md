@@ -6,6 +6,6 @@ This project was presented on the 11th of January 2019 in the Department of Comp
 
 In order to try out our CNN model, please download our 3D Unity worlds and neural model at [this page](https://drive.google.com/drive/folders/1IYWDhFTBd9vCNAf542-1642-hCGFpt-Y?usp=sharing). Locate either the model or the worlds in the same directory as the Main.py file. Run Main.py file and start the game application (choose ScreenCapture mode). Be sure to have imported all the dependencies required by the project (OpenCv, Keras...).
 
-### Our previous version using Reinforcement Learning:
+#### Our version using Reinforcement Learning
 [PDF](https://github.com/matteoprata/self-driving-car-rlnn/blob/master/MLP-Prata-Ricciardi.pdf), [YouTube](https://www.youtube.com/watch?v=ryUEZAMI1DE), [GitHub](https://github.com/matteoprata/self-driving-car-rlnn/tree/master)
 
